@@ -12,5 +12,6 @@ export const ENV = {
     STREAM_API_KEY: process.env.STREAM_API_KEY,
     SENTRY_DNS: process.env.SENTRY_DNS,
     INNGEST_EVENT_KEY: process.env.INNGEST_EVENT_KEY,
-    INNGEST_SIGNING_KEY: process.env.INNGEST_SIGNING_KEY
+    INNGEST_SIGNING_KEY: process.env.INNGEST_SIGNING_KEY,
+    CLIENT_URL: process.env.CLIENT_URL
 }
